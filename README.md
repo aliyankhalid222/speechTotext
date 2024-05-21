@@ -1,1 +1,1 @@
-# speechTotext
+# speechTotextThis project is a web-based Speech-to-Text Converter developed using HTML, CSS, and JavaScript. It enables users to convert spoken words into written text in real-time. The user interface is designed with HTML and styled with CSS to ensure a clean and intuitive experience. The core functionality leverages JavaScript's Web Speech API to capture and transcribe speech, providing an accessible and efficient way to convert speech to text directly in the browser.
